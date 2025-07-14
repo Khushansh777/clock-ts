@@ -1,0 +1,2 @@
+# Treat all .ts files as TypeScript for GitHub linguist
+*.ts linguist-language=TypeScript
